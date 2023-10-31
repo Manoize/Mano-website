@@ -20,7 +20,7 @@
 
 html, body {                      /* geldt voor html en body */
   margin: 0px;                    /* standaard marge 0 */
-  background-color: #ff00009a;    /* achtergrondkleur lichtgrijs */
+  background-color: rgb(250, 4, 4);    /* achtergrondkleur lichtgrijs */
   color: #000000;               /* tekstkleur donkergrijs */
 }  
 
