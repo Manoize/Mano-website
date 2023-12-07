@@ -68,6 +68,10 @@ img {
   width:250px;
   padding-right: 15px; /* zorgt dat plaatje niet tegen tekst komt */
 }
+.item-plaatje2{
+  float: right;
+  width:450px;
+}
 .item-tekst {
   float:right;
   width: 450px;
@@ -123,6 +127,7 @@ nav li a {
 
 nav li a:hover {
     background-color: #000000;
+    
 }
 
 nav li a.active {
